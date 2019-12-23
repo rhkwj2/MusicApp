@@ -13,6 +13,7 @@
 		92FD349523A9BA3E00B6C580 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92FD349323A9BA3E00B6C580 /* Main.storyboard */; };
 		92FD349723A9BA4800B6C580 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92FD349623A9BA4800B6C580 /* Assets.xcassets */; };
 		92FD349A23A9BA4800B6C580 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92FD349823A9BA4800B6C580 /* LaunchScreen.storyboard */; };
+		92FD34A223A9BB3000B6C580 /* MusicTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FD34A123A9BB3000B6C580 /* MusicTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		92FD349623A9BA4800B6C580 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92FD349923A9BA4800B6C580 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92FD349B23A9BA4800B6C580 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92FD34A123A9BB3000B6C580 /* MusicTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				92FD348F23A9BA3E00B6C580 /* SceneDelegate.swift */,
 				92FD349123A9BA3E00B6C580 /* ViewController.swift */,
 				92FD349323A9BA3E00B6C580 /* Main.storyboard */,
+				92FD34A123A9BB3000B6C580 /* MusicTableViewCell.swift */,
 				92FD349623A9BA4800B6C580 /* Assets.xcassets */,
 				92FD349823A9BA4800B6C580 /* LaunchScreen.storyboard */,
 				92FD349B23A9BA4800B6C580 /* Info.plist */,
@@ -141,6 +144,7 @@
 				92FD349223A9BA3E00B6C580 /* ViewController.swift in Sources */,
 				92FD348E23A9BA3E00B6C580 /* AppDelegate.swift in Sources */,
 				92FD349023A9BA3E00B6C580 /* SceneDelegate.swift in Sources */,
+				92FD34A223A9BB3000B6C580 /* MusicTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
